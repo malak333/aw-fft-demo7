@@ -1,0 +1,12 @@
+{
+  "name": "fft-website",
+  "version": "1.0.0",
+  "description": "A responsive website about Final Fantasy Tactics on PlayStation",
+  "scripts": {
+    "test": "node --test tests/site.test.cjs"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.65.0",
+    "playwright": "^1.40.0"
+  }
+}
